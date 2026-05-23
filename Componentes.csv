@@ -1,0 +1,7 @@
+﻿Nome,Quantidade,Componente
+"Rpot1",1,"250 kΩ Potenciômetro"
+"T1",1," Transistor nMOS (MOSFET)"
+"R3",1,"220 Ω Resistor"
+"BAT1",1," Bateria 9V"
+"M2",1," Motor CC"
+"U1",1," Arduino Uno R3"

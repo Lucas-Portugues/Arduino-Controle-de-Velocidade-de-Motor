@@ -14,3 +14,6 @@ Neste projeto, a velocidade de um motor elétrico é controlada girando um poten
 * 1x Resistor de 220 Ω (proteção do MOSFET)
 * 1x Motor DC simples
 * 1x Bateria de 9V (para dar força ao motor)
+
+## Link do Projeto:
+https://www.tinkercad.com/things/fzU9DyV2tIE-controle-de-velocidade-de-motor?sharecode=0VTZQaYgP8unL6_PGeZZvVLaXqdPo6ZQwil2QjjBLmQ
